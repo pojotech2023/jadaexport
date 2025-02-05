@@ -78,53 +78,53 @@
                     
                     <div class="product__box product__default--single text-center col-md-4">
                         <div class="product__img-box  pos-relative">
-                            <a href="ponnirice.php" class="product__img--link" target="_blank" >
+                            <a href="rice/rice.php" class="product__img--link" target="_blank" >
                                 <img class="product__img img-fluid" src="assets/img/product/ponnirice.png" alt="">
                             </a>
                             <ul class="product__action--link pos-absolute">
-                                <li><a href="ponnirice.php"  target="_blank"><i class="icon-eye"></i></a></li>
+                                <li><a href="rice/rice.php"  target="_blank"><i class="icon-eye"></i></a></li>
                             </ul> 
-                        </div>
+                        </div> 
                                             
                         <div class="product__content m-t-20">
-                            <a href="ponnirice.php" class="product__link">PONNI RICE</a>
+                            <a href="rice/rice.php" class="product__link">PONNI RICE</a>
                                 <div class="product__price m-t-5">
-                                    <a href="ponnirice.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="rice/rice.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div>
                         </div>
                                         
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
-                                <a href="garlic.php" class="product__img--link" target="_blank" >
+                                <a href="fresh/fresh.php" class="product__img--link" target="_blank" >
                                     <img class="product__img img-fluid" src="assets/img/product/garlic.png" alt="">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
-                                    <li><a href="garlic.php"  target="_blank"><i class="icon-eye"></i></a></li>
+                                    <li><a href="fresh/fresh.php"  target="_blank"><i class="icon-eye"></i></a></li>
                                 </ul> 
                             </div> 
                             <div class="product__content m-t-20">
-                                <a href="garlic.php" class="product__link">FRESH GARLIC</a>
+                                <a href="fresh/fresh.php" class="product__link">FRESH GARLIC</a>
                                 <div class="product__price m-t-5">
-                                    <a href="garlic.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="fresh/fresh.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div> 
                         </div> 
 
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
-                                <a href="#" class="product__img--link" target="_blank" >
+                                <a href="powder/powder.php" class="product__img--link" target="_blank" >
                                     <img class="product__img img-fluid" src="assets/img/product/moringaleafpowder.png" alt="">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
-                                    <li><a href="moringaleaf.php"  target="_blank"><i class="icon-eye"></i></a></li>
+                                    <li><a href="powder/powder.php"  target="_blank"><i class="icon-eye"></i></a></li>
                                 </ul> 
                             </div>
     
                             <div class="product__content m-t-20">
-                                <a href="moringaleaf.php" class="product__link">MORINGA LEAF POWDER</a>
+                                <a href="powder/powder.php" class="product__link">MORINGA LEAF POWDER</a>
                                 <div class="product__price m-t-5">
-                                    <a href="moringaleaf.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="powder/powder.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div>
                         </div>

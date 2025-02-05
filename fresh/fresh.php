@@ -7,7 +7,7 @@
                 <ul class="page-breadcrumb__menu">
                     <li class="page-breadcrumb__nav"><a href="../index.php">Home</a></li>
                     <li class="page-breadcrumb__nav active"><a href="../product.php">Products</a></li>
-                    <li class="page-breadcrumb__nav active">Fresh Categories</li>
+                    <li class="page-breadcrumb__nav active">Fresh Vegetables & Fruits</li>
                 </ul>
             </div>
         </div>
