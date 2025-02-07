@@ -113,7 +113,7 @@ session_start();
                     <div class="section-content">
                         <h5 class="section-content__title">Get In Touch</h5>
                     </div>
-                   
+
                     <form class="contact-form-style" action="https://formsubmit.co/jadaexports@gmail.com" method="POST">
                         <input type="hidden" name="_subject" value="New Form Submission in Jada Export">
                         <div class="row">
@@ -130,6 +130,29 @@ session_start();
                             <div class="col-lg-6">
                                 <div class="form-box__single-group">
                                     <input type="email" name="email" placeholder="Email" required>
+                                </div>
+                            </div>
+                            <!-- Dropdown field added here -->
+                            <div class="col-lg-6">
+                                <div class="form-box__single-group">
+                                    <select name="product type" required>
+                                        <option value="" disabled selected>Select Product Type</option>
+                                        <option value="Rice">Rice</option>
+                                        <option value="Basmati">Basmati</option>
+                                        <option value="Millets">Millets</option>
+                                        <option value="Spices">Spices</option>
+                                        <option value="Yellow Maize">Yellow Maize</option>
+                                        <option value="Wheat">Wheat</option>
+                                        <option value="Oil">Oil</option>
+                                        <option value="Fresh Vegetables & Fruits">Fresh Vegetables & Fruits</option>
+                                        <option value="Dhall">Dhall</option>
+                                        <option value="Powder">Powder</option>
+                                        <option value="Cashew Nut">Cashew Nut</option>
+                                        <option value="Dehydrated Lemon">Dehydrated Lemon</option>
+                                        <option value="Peanut">Peanut</option>
+                                        <option value="Coconuts">Coconuts</option>
+                                        <option value="Sugar">Sugar</option>
+                                    </select>
                                 </div>
                             </div>
                             <div class="col-lg-6">

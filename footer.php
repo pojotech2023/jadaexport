@@ -21,7 +21,7 @@
                                 </li>
                                 
                                 <li class="footer__address-item"><i class="fab fa-whatsapp"></i> 
-                                <a href="tel://+917401997786">+917401997786</a></li>
+                                <a href="https://wa.me/+917401997786" target="_blank">+917401997786</a></li>
                                 
                                 <li class="footer__address-item"><i class="fa fa-envelope"></i><a href="mailto://info@jadaexports.com">info@jadaexports.com,</a></br>
                                 &nbsp; &nbsp; &nbsp; &nbsp;<a href="mailto://support@jadaexports.com">support@jadaexports.com</a>

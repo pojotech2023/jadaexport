@@ -87,7 +87,7 @@
                         </div> 
                                             
                         <div class="product__content m-t-20">
-                            <a href="rice/rice.php" class="product__link">PONNI RICE</a>
+                            <a href="rice/rice.php" class="product__link">RICE</a>
                                 <div class="product__price m-t-5">
                                     <a href="rice/rice.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
@@ -96,35 +96,35 @@
                                         
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
-                                <a href="fresh/fresh.php" class="product__img--link">
-                                    <img class="product__img img-fluid" src="assets/img/product/garlic.png" alt="">
+                                <a href="spices/spices.php" class="product__img--link">
+                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/spices1.jpeg" alt="">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
-                                    <li><a href="fresh/fresh.php"><i class="icon-eye"></i></a></li>
+                                    <li><a href="spices/spices.php"><i class="icon-eye"></i></a></li>
                                 </ul> 
                             </div> 
                             <div class="product__content m-t-20">
-                                <a href="fresh/fresh.php" class="product__link">FRESH GARLIC</a>
+                                <a href="spices/spices.php" class="product__link">SPICES</a>
                                 <div class="product__price m-t-5">
-                                    <a href="fresh/fresh.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="spices/spices.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div> 
                         </div> 
 
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
-                                <a href="powder/powder.php" class="product__img--link">
-                                    <img class="product__img img-fluid" src="assets/img/product/moringaleafpowder.png" alt="">
+                                <a href="millets.php" class="product__img--link">
+                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/millets.png" alt="">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
-                                    <li><a href="powder/powder.php" ><i class="icon-eye"></i></a></li>
+                                    <li><a href="millets.php" ><i class="icon-eye"></i></a></li>
                                 </ul> 
                             </div>
     
                             <div class="product__content m-t-20">
-                                <a href="powder/powder.php" class="product__link">MORINGA LEAF POWDER</a>
+                                <a href="millets.php" class="product__link">MILLETS</a>
                                 <div class="product__price m-t-5">
-                                    <a href="powder/powder.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="millets.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div>
                         </div>
@@ -375,7 +375,7 @@
                     <div class="col-md-6 col-12">
                         <div class="banner__box">
                             <div class="banner__box--single banner__box--single-text-style-1 pos-relative">
-                                <a href="lemon.php" class="banner__link">
+                                <a href="fresh/lemon.php" class="banner__link">
                                     <img src="assets/img/banner/size-wide/banner-home-1-img-1-wide.jpg" alt="" class="banner__img">
                                 </a>
                                 <div class="banner__content banner__content--center pos-absolute">
@@ -383,7 +383,7 @@
                                     <h2 class="banner__title banner__title--large letter-spacing--4 font--medium text-uppercase">LEMON</h2>
                                     <h6 class="banner__title letter-spacing--4 font--regular text-center m-b-20">Healthy</h6>
                                     <div class="text-center">
-                                        <a href="lemon.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">ENQUIRY</a>
+                                        <a href="fresh/lemon.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">ENQUIRY</a>
                                     </div>
                                 </div>
                             </div>
@@ -392,7 +392,7 @@
                     <div class="col-md-6 col-12">
                         <div class="banner__box">
                             <div class="banner__box--single banner__box--single-text-style-1 pos-relative">
-                                <a href="ginger.php" class="banner__link">
+                                <a href="fresh/ginger.php" class="banner__link">
                                     <img src="assets/img/banner/size-wide/banner-home-1-img-2-wide.jpg" alt="" class="banner__img">
                                 </a>
                                 <div class="banner__content banner__content--center pos-absolute">
@@ -400,7 +400,7 @@
                                     <h2 class="banner__title banner__title--large letter-spacing--4 font--medium text-uppercase">GINGER</h2>
                                     <h6 class="banner__title letter-spacing--4 font--regular text-center m-b-20">Healthy </h6>
                                     <div class="text-center">
-                                        <a href="ginger.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">ENQUIRY</a>
+                                        <a href="fresh/ginger.phpginger.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">ENQUIRY</a>
                                     </div>
                                 </div>
                             </div> 

@@ -17,11 +17,11 @@
         <div class="container">
             <div class="row">	
             	<div class="col-md-3 text-center" style="border: 1px solid #111;">
-                    <a href="assets/img/certificate/FIEO.png" target="_blank">
-                        <img src="assets/img/certificate/FIEO.png" style="width:100%;">
+                    <a href="assets/img/certificate/cert.jpg" target="_blank">
+                        <img src="assets/img/certificate/cert.jpg" style="width:100%;">
                     </a>
             	</div>
-                <div class="col-md-3 text-center">
+                <!-- <div class="col-md-3 text-center">
                     <a href="assets/img/certificate/rc.jpg" target="_blank">
                         <img src="assets/img/certificate/rc.jpg" style="width:100%;">
                     </a>
@@ -36,8 +36,8 @@
                         <img src="assets/img/certificate/spices.png" style="width:100%;">
                     </a>
                 </div>                   
-            </div><br>
-            <div class="row">  
+            </div><br> -->
+            <!-- <div class="row">  
                 <div class="col-md-3 text-center" style="border: 1px solid #111;">
                     <a href="assets/img/certificate/APEDA.png" target="_blank">
                         <img src="assets/img/certificate/APEDA.png" style="width:100%;">
@@ -52,7 +52,7 @@
                     <a href="assets/img/certificate/Udyam-Reg.png" target="_blank">
                         <img src="assets/img/certificate/Udyam-Reg.png" style="width:100%;">
                     </a>
-                </div>
+                </div> -->
 
                 <!-- <div class="col-md-3 text-center">
                     <img src="assets/img/certificate/rc.jpg" style="width:100%;">
@@ -60,7 +60,7 @@
                 <div class="col-md-3 text-center">
                     <img src="assets/img/certificate/rc.jpg" style="width:100%;">
                 </div> -->                   
-            </div>
+            <!-- </div> -->
         </div>
         
     </main>  <!-- :::::: End MainContainer Wrapper :::::: -->

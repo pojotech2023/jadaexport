@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>JADA EXPORT</title>
+    <title>JADA EXPORTS</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -81,7 +81,7 @@
                                         <li class="header__nav-item pos-relative">
                                             <a href="#" class="header__nav-link">Abouts Us<i class="fal fa-chevron-down"></i></a>
                                             <ul class="dropdown__menu pos-absolute">
-                                                <li class="dropdown__list"><a href="#" class="mega-menu__link">Company director</a></li> 
+                                                <!-- <li class="dropdown__list"><a href="#" class="mega-menu__link">Company director</a></li>  -->
                                                 <li class="dropdown__list"><a href="../rc.php" class="mega-menu__link">certificate</a></li>    
                                                 <li class="dropdown__list"><a href="../vision.php" class="mega-menu__link">vision</a></li> 
                                                 <li class="dropdown__list"><a href="../mission.php" class="mega-menu__link">mission</a></li>  
@@ -91,9 +91,9 @@
                                             <a href="../product.php" class="header__nav-link">Products</a>
                                         </li>
                                         
-                                        <li class="header__nav-item pos-relative">
+                                        <!-- <li class="header__nav-item pos-relative">
                                             <a href="#" class="header__nav-link">Protfolio</a>
-                                        </li>
+                                        </li> -->
                                         <li class="header__nav-item pos-relative">
                                             <a href="../contact.php" class="header__nav-link">Contact Us</a>
                                         </li>
