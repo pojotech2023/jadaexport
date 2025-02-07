@@ -62,7 +62,7 @@ session_start();
                             <i class="fab fa-whatsapp" aria-hidden="true"></i>
                         </div>
                         <div class="contact-info-dec">
-                            <a href="tel://+917401997786">+917401997786</a>
+                            <a href="https://wa.me/+917401997786" target="_blank">+917401997786</a>
                         </div>
                     </div>
                     <div class="single-contact-info">

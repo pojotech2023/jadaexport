@@ -39,7 +39,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="basmati/basmati.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="assets/img/product/size-normal/basmati.webp" alt="">
+                        <img class="product__img img-fluid" src="assets/img/product/size-normal/basmati.webp" alt="" style="height: 393px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -48,7 +49,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="basmati/basmati.php" class="product__link">Basmati</a>
+                    <a href="basmati/basmati.php" class="product__link">BASMATI</a>
                     <div class="product__price m-t-5">
                         <a href="basmati/basmati.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -57,19 +58,20 @@
 
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
-                    <a href="millets.php" class="product__img--link">
+                    <a href="millets/millets.php" class="product__img--link">
                         <img class="product__img img-fluid" src="assets/img/product/size-normal/millets.png" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
-                        <li><a href="millets.php"><i class="icon-eye"></i></a></li>
+                        <li><a href="millets/millets.php"><i class="icon-eye"></i></a></li>
                     </ul>
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="millets.php" class="product__link">MILLETS</a>
+                    <a href="millets/millets.php" class="product__link">MILLETS</a>
                     <div class="product__price m-t-5">
-                        <a href="millets.php"><span class="product__price">Enquiry </span></a>
+                        <a href="millets/millets.php"><span class="product__price">Enquiry </span></a>
                     </div>
                 </div>
             </div>
@@ -77,7 +79,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="spices/spices.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="assets/img/product/size-normal/spices1.jpeg" alt="">
+                        <img class="product__img img-fluid" src="assets/img/product/size-normal/spices1.jpeg" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -86,7 +89,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="spices/spices.php" class="product__link">Spices</a>
+                    <a href="spices/spices.php" class="product__link">SPICES</a>
                     <div class="product__price m-t-5">
                         <a href="spices/spices.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -135,6 +138,8 @@
                 <div class="product__img-box  pos-relative">
                     <a href="oil/oil.php" class="product__img--link">
                         <img class="product__img img-fluid" src="assets/img/product/size-normal/oil.jpeg" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
+
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -143,7 +148,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="oil/oil.php" class="product__link">Oil</a>
+                    <a href="oil/oil.php" class="product__link">OIL</a>
                     <div class="product__price m-t-5">
                         <a href="oil/oil.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -153,6 +158,8 @@
                 <div class="product__img-box  pos-relative">
                     <a href="fresh/fresh.php" class="product__img--link">
                         <img class="product__img img-fluid" src="assets/img/product/size-normal/fresh.webp" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
+
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -161,7 +168,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="fresh/fresh.php" class="product__link">Fresh Vegetables & Fruits</a>
+                    <a href="fresh/fresh.php" class="product__link">FRESH VEGETABLES & FRUITS</a>
                     <div class="product__price m-t-5">
                         <a href="fresh/fresh.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -172,6 +179,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="dhall/dhall.php" class="product__img--link">
                         <img class="product__img img-fluid" src="assets/img/product/size-normal/dhall.webp" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -180,7 +188,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="dhall/dhall.php" class="product__link">Dhall</a>
+                    <a href="dhall/dhall.php" class="product__link">DHALL</a>
                     <div class="product__price m-t-5">
                         <a href="dhall/dhall.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -190,7 +198,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="powder/powder.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="assets/img/product/size-normal/powder.jpg" alt="">
+                        <img class="product__img img-fluid" src="assets/img/product/size-normal/powder.jpg" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -199,7 +208,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="powder/powder.php" class="product__link">Powder</a>
+                    <a href="powder/powder.php" class="product__link">POWDER</a>
                     <div class="product__price m-t-5">
                         <a href="powder/powder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -284,7 +293,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="sugar.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="assets/img/product/size-normal/sugar.jpg" alt="">
+                        <img class="product__img img-fluid" src="assets/img/product/size-normal/sugar.jpg" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -293,7 +303,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="sugar.php" class="product__link">Sugar</a>
+                    <a href="sugar.php" class="product__link">SUGAR</a>
                     <div class="product__price m-t-5">
                         <a href="sugar.php"><span class="product__price">Enquiry </span></a>
                     </div>

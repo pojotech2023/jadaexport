@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="turmericpowder.php" class="product__link">Turmaric Powder</a>
+                    <a href="turmericpowder.php" class="product__link text-uppercase">Turmaric Powder</a>
                     <div class="product__price m-t-5">
                         <a href="turmericpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="blackpepperpowder.php" class="product__link">Black pepper powder</a>
+                    <a href="blackpepperpowder.php" class="product__link text-uppercase">Black pepper powder</a>
                     <div class="product__price m-t-5">
                         <a href="blackpepperpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="moringa.php" class="product__link">Moringa powder</a>
+                    <a href="moringa.php" class="product__link text-uppercase">Moringa powder</a>
                     <div class="product__price m-t-5">
                         <a href="moringa.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="blackgarlicpowder.php" class="product__link"> Black garlic powder</a>
+                    <a href="blackgarlicpowder.php" class="product__link text-uppercase"> Black garlic powder</a>
                     <div class="product__price m-t-5">
                         <a href="blackgarlicpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="amlapowder.php" class="product__link">Amla powder</a>
+                    <a href="amlapowder.php" class="product__link text-uppercase">Amla powder</a>
                     <div class="product__price m-t-5">
                         <a href="amlapowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -112,7 +112,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="ginger.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="../assets/img/product/powder/ginger.webp" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/powder/ginger.webp" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -121,7 +122,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="ginger.php" class="product__link"> Ginger powder</a>
+                    <a href="ginger.php" class="product__link text-uppercase"> Ginger powder</a>
                     <div class="product__price m-t-5">
                         <a href="ginger.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -139,7 +140,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="greenchillipowder.php" class="product__link"> Green chilli powder</a>
+                    <a href="greenchillipowder.php" class="product__link text-uppercase"> Green chilli powder</a>
                     <div class="product__price m-t-5">
                         <a href="greenchillipowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -157,7 +158,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="tomatopowder.php" class="product__link">Tomato powder</a>
+                    <a href="tomatopowder.php" class="product__link text-uppercase">Tomato powder</a>
                     <div class="product__price m-t-5">
                         <a href="tomatopowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -175,7 +176,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="mintleafpowder.php" class="product__link">Mint leaf powder</a>
+                    <a href="mintleafpowder.php" class="product__link text-uppercase">Mint leaf powder</a>
                     <div class="product__price m-t-5">
                         <a href="mintleafpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -193,7 +194,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="redchillipowder.php" class="product__link">Red chilli powder</a>
+                    <a href="redchillipowder.php" class="product__link text-uppercase">Red chilli powder</a>
                     <div class="product__price m-t-5">
                         <a href="redchillipowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -202,7 +203,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="coriander.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="../assets/img/product/powder/coriander.webp" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/powder/coriander.webp" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -211,7 +213,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="coriander.php" class="product__link">Coriander powder</a>
+                    <a href="coriander.php" class="product__link text-uppercase">Coriander powder</a>
                     <div class="product__price m-t-5">
                         <a href="coriander.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -229,7 +231,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="redonionpowder.php" class="product__link">Onion powder</a>
+                    <a href="redonionpowder.php" class="product__link text-uppercase">Onion powder</a>
                     <div class="product__price m-t-5">
                         <a href="redonionpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -247,7 +249,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="tamarindpowder.php" class="product__link">Tamarind powder</a>
+                    <a href="tamarindpowder.php" class="product__link text-uppercase">Tamarind powder</a>
                     <div class="product__price m-t-5">
                         <a href="tamarindpowder.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -265,7 +267,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="jaggery.php" class="product__link">Jaggery powder</a>
+                    <a href="jaggery.php" class="product__link text-uppercase">Jaggery powder</a>
                     <div class="product__price m-t-5">
                         <a href="jaggery.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -283,7 +285,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="palmjaggery.php" class="product__link"> Plam jaggery powder</a>
+                    <a href="palmjaggery.php" class="product__link text-uppercase"> Plam jaggery powder</a>
                     <div class="product__price m-t-5">
                         <a href="palmjaggery.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -292,7 +294,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="carry.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="../assets/img/product/powder/carry1.webp" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/powder/carry1.webp" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -301,7 +304,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="carry.php" class="product__link"> Carry leaf powder  </a>
+                    <a href="carry.php" class="product__link text-uppercase"> Carry leaf powder  </a>
                     <div class="product__price m-t-5">
                         <a href="carry.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -311,7 +314,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="bamboosalt.php" class="product__img--link" target="_blank">
-                        <img class="product__img img-fluid" src="../assets/img/product/size-normal/bamboo_salt.png" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/size-normal/bamboosalt.jpg" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -320,7 +324,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="bamboosalt.php" class="product__link">Bamboo Salt</a>
+                    <a href="bamboosalt.php" class="product__link text-uppercase">Bamboo Salt</a>
                     <div class="product__price m-t-5">
                         <a href="bamboosalt.php"><span class="product__price">Enquiry </span></a>
                     </div>

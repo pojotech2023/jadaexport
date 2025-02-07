@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include '../header.php'; ?>
 
 <!-- ::::::  Start  Breadcrumb Section  ::::::  -->
 <div class="page-breadcrumb">
@@ -6,8 +6,8 @@
         <div class="row">
             <div class="col-12">
                 <ul class="page-breadcrumb__menu">
-                    <li class="page-breadcrumb__nav"><a href="index.php">Home</a></li>
-                    <li class="page-breadcrumb__nav active"><a href="product.php">Products</a></li>
+                    <li class="page-breadcrumb__nav"><a href="../index.php">Home</a></li>
+                    <li class="page-breadcrumb__nav active"><a href="../product.php">Products</a></li>
                     <li class="page-breadcrumb__nav active"><a href="millets.php">Millets</a></li>
                 </ul>
                 <h2 class="mt-2"> PRODUCTS </>
@@ -26,11 +26,12 @@
                 <div class="col-md-5">
                     <div class="product-gallery-box m-b-0">
                         <div class="product-image--gallery overflow-hidden">
-                            <h4 class="font--regular m-b-20">Little Millet 
+                            <h4 class="font--regular m-b-20">BROWN TOP MILLET
                             </h4>
                             <div class="float-left float-grid-1 m-t-0">
-                                <div class="img-responsive border-around">
-                                    <img src="assets/img/product/millats/little.jpg" alt="">
+                            <div class="img-wrapper">
+                                    <img src="../assets/img/product/millats/browntop.jpg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
                                 </div>
                             </div>
 
@@ -45,8 +46,7 @@
                         <div class="mt12px pt22px bdrT proDtls">
                             <h4 class="b large alpha75 mb10px m-b-30">Product Details</h4>
                             <table class="w100 mb15px formTable ">
-                                <p>Little Millet (Samai)is a small-grained and easy to digest, ideal for upma, khichdi, and rice substitutes.
-                                </p>
+                                <p>A rare and highly nutritious millet, it is gluten-free, rich in fiber, and easy to digest. It is often used in porridge, dosas, or as a healthy alternative to rice.</p>
 
                                 <!--<h5>Features</h5>-->
 
@@ -54,7 +54,7 @@
 
                                     <tr>
                                         <td class="p7px alpha75 w33">Product Name:</td>
-                                        <td class="p7px">Little Millet </td>
+                                        <td class="p7px">Brown Top Millet</td>
                                     </tr>
                                     <tr>
                                         <td class="p7px alpha75 w33">Origin of Product:</td>
@@ -80,7 +80,7 @@
 
                         <div class="product-var__item m-t-30">
 
-                            <?php include 'product-quote.php'; ?>
+                            <?php include '../product-quote.php'; ?>
 
                         </div>
                     </div> <!-- ::::::  End  Product Style - Default Section  ::::::  -->
@@ -88,4 +88,4 @@
 
 </main> <!-- :::::: End MainContainer Wrapper :::::: -->
 
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>

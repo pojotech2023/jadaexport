@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="sesameoil.php" class="product__link"> Sesame oil</a>
+                    <a href="sesameoil.php" class="product__link"> SESAME OIL</a>
                     <div class="product__price m-t-5">
                         <a href="sesameoil.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="peanutoil.php" class="product__link">Peanut oil (or) Ground nut oil</a>
+                    <a href="peanutoil.php" class="product__link">PEANUT OIL (or) GROUND NUT OIL</a>
                     <div class="product__price m-t-5">
                         <a href="peanutoil.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="coconutoil.php" class="product__link">Coconut oil</a>
+                    <a href="coconutoil.php" class="product__link">COCONUT OIL</a>
                     <div class="product__price m-t-5">
                         <a href="coconutoil.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="edibleoils.php" class="product__link"> Edible oil</a>
+                    <a href="edibleoils.php" class="product__link"> EDIBLE OIL</a>
                     <div class="product__price m-t-5">
                         <a href="edibleoils.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="virgincoconutoil.php" class="product__link"> Coconut virgin oil  
+                    <a href="virgincoconutoil.php" class="product__link"> COCONUT VIRGIN OIL  
                     </a>
                     <div class="product__price m-t-5">
                         <a href="virgincoconutoil.php"><span class="product__price">Enquiry </span></a>

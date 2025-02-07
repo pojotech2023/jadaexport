@@ -8,7 +8,7 @@
                 <ul class="page-breadcrumb__menu">
                     <li class="page-breadcrumb__nav"><a href="../index.php">Home</a></li>
                     <li class="page-breadcrumb__nav active"><a href="../product.php">Products</a></li>
-                    <li class="page-breadcrumb__nav active"><a href="fresh.php">Fresh Vegetables & Fruits</a></li>
+                    <li class="page-breadcrumb__nav active"><a href="millets.php">Millets</a></li>
                 </ul>
                 <h2 class="mt-2"> PRODUCTS </>
             </div>
@@ -26,11 +26,11 @@
                 <div class="col-md-5">
                     <div class="product-gallery-box m-b-0">
                         <div class="product-image--gallery overflow-hidden">
-                            <h4 class="font--regular m-b-20">G9 GREEN BANANA
+                            <h4 class="font--regular m-b-20">PROSO MILLET
                             </h4>
                             <div class="float-left float-grid-1 m-t-0">
                             <div class="img-wrapper">
-                                    <img src="../assets/img/product/fresh/greenbanana.jpg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/product/millats/proso.jpg" alt="Rice Image" class="prd-img">
                                     <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
                                 </div>
                             </div>
@@ -45,15 +45,17 @@
 
                         <div class="mt12px pt22px bdrT proDtls">
                             <h4 class="b large alpha75 mb10px m-b-30">Product Details</h4>
-                            <table>
-                                <p>G9 Green Banana is a high-yield Cavendish banana variety known for its firm texture, rich nutritional value, and versatility in cooking, often used for making chips, curries, and flour.</p>
+                            <table class="w100 mb15px formTable ">
+                                <p>Proso Millet (Pani Varagu) is a small-grained, protein-rich millet that is gluten-free and easy to cook. It is commonly used in porridges, upma, or as a rice substitute in traditional dishes.</p>
+
+                                <!--<h5>Features</h5>-->
+
                                 <tbody>
 
                                     <tr>
                                         <td class="p7px alpha75 w33">Product Name:</td>
-                                        <td class="p7px">G9 Green Banana</td>
+                                        <td class="p7px">Proso Millet  </td>
                                     </tr>
-
                                     <tr>
                                         <td class="p7px alpha75 w33">Origin of Product:</td>
                                         <td class="p7px">INDIA</td>
@@ -74,14 +76,14 @@
                                 </tbody>
                             </table>
                         </div>
-                        <!-->
-		
-		<div class="product-var__item m-t-30">
-                                    
-                <?php include '../product-quote.php'; ?>
-    
-                </div>
-        </div> <!-- ::::::  End  Product Style - Default Section  ::::::  -->
+
+
+                        <div class="product-var__item m-t-30">
+
+                            <?php include '../product-quote.php'; ?>
+
+                        </div>
+                    </div> <!-- ::::::  End  Product Style - Default Section  ::::::  -->
 
 
 </main> <!-- :::::: End MainContainer Wrapper :::::: -->

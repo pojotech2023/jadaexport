@@ -97,7 +97,8 @@
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
                                 <a href="spices/spices.php" class="product__img--link">
-                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/spices1.jpeg" alt="">
+                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/spices1.jpeg" alt="" style="height: 307px;">
+                                    <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
                                     <li><a href="spices/spices.php"><i class="icon-eye"></i></a></li>
@@ -113,18 +114,19 @@
 
                         <div class="product__box product__default--single text-center col-md-4">
                             <div class="product__img-box  pos-relative">
-                                <a href="millets.php" class="product__img--link">
-                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/millets.png" alt="">
+                                <a href="millets/millets.php" class="product__img--link">
+                                    <img class="product__img img-fluid" src="assets/img/product/size-normal/millets.png" alt="" style="height: 308px;">
+                                    <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                                 </a>
                                 <ul class="product__action--link pos-absolute">
-                                    <li><a href="millets.php" ><i class="icon-eye"></i></a></li>
+                                    <li><a href="millets/millets.php" ><i class="icon-eye"></i></a></li>
                                 </ul> 
                             </div>
     
                             <div class="product__content m-t-20">
-                                <a href="millets.php" class="product__link">MILLETS</a>
+                                <a href="millets/millets.php" class="product__link">MILLETS</a>
                                 <div class="product__price m-t-5">
-                                    <a href="millets.php" ><span class="product__price">Enquiry </span></a>
+                                    <a href="millets/millets.php" ><span class="product__price">Enquiry </span></a>
                                 </div>
                             </div>
                         </div>
@@ -167,11 +169,11 @@
                             <div class="product-default-slider-4grid-1rows gap__col--30 gap__row--40">
                                 <div class="product__box product__default--single text-center col-md-4">
                                     <div class="product__img-box  pos-relative">
-                                        <a href="#" class="product__img--link" target="_blank" >
+                                        <a href="#" class="product__img--link" >
                                             <img class="product__img img-fluid" src="assets/img/leather/leather-bag.jpg" alt="">
                                         </a>
                                         <ul class="product__action--link pos-absolute">
-                                            <li><a href="brownleatherbag.php"  target="_blank"><i class="icon-eye"></i></a></li>
+                                            <li><a href="brownleatherbag.php"><i class="icon-eye"></i></a></li>
                                         </ul>
                                     </div> 
                                     <div class="product__content m-t-20">
@@ -184,11 +186,11 @@
                                         
                                 <div class="product__box product__default--single text-center col-md-4">
                                     <div class="product__img-box  pos-relative">
-                                        <a href="palmjaggery.php" class="product__img--link" target="_blank" >
+                                        <a href="palmjaggery.php" class="product__img--link">
                                             <img class="product__img img-fluid" src="assets/img/leather/leather-black.jpg" alt="">
                                         </a>
                                         <ul class="product__action--link pos-absolute">
-                                            <li><a href="blackleatherbag.php"  target="_blank"><i class="icon-eye"></i></a></li>
+                                            <li><a href="blackleatherbag.php"><i class="icon-eye"></i></a></li>
                                         </ul> 
                                     </div>
                                     

@@ -26,7 +26,7 @@
                    <div class="col-md-5">
                         <div class="product-gallery-box m-b-0">
                             <div class="product-image--gallery overflow-hidden">
-                                <h4 class="font--regular m-b-20">FRESH GINGER & POWDER
+                                <h4 class="font--regular m-b-20">FRESH GINGER POWDER
 </h4>
                                 <div class="float-left float-grid-1 m-t-0">
                                     <div class="img-responsive border-around">

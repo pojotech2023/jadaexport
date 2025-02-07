@@ -22,6 +22,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="punjab.php" class="product__img--link">
                         <img class="product__img img-fluid" src="../assets/img/product/basmati/punjab.jpg" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -30,7 +31,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="punjab.php" class="product__link">Punjab Basmati Rice</a>
+                    <a href="punjab.php" class="product__link">PUNJAB BASMATI RICE</a>
                     <div class="product__price m-t-5">
                         <a href="punjab.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -41,6 +42,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="haryana.php" class="product__img--link">
                         <img class="product__img img-fluid" src="../assets/img/product/basmati/haryana.webp" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -49,7 +51,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="haryana.php" class="product__link">Haryana  Basmati Rice</a>
+                    <a href="haryana.php" class="product__link">HARYANA BASMATI RICE</a>
                     <div class="product__price m-t-5">
                         <a href="haryana.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -59,6 +61,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="basmati_1121.php" class="product__img--link">
                         <img class="product__img img-fluid" src="../assets/img/product/basmati/basmati_1211.jpg" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -67,7 +70,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="basmati_1121.php" class="product__link">Basmati 1121 Rice</a>
+                    <a href="basmati_1121.php" class="product__link">BASMATI 1121 RICE</a>
                     <div class="product__price m-t-5">
                         <a href="basmati_1121.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -77,6 +80,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="golden_sella.php" class="product__img--link">
                         <img class="product__img img-fluid" src="../assets/img/product/basmati/golden.webp" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -85,7 +89,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="golden_sella.php" class="product__link">Basmati Golden Sella Rice</a>
+                    <a href="golden_sella.php" class="product__link">BASMATI GOLDEN SELLA RICE</a>
                     <div class="product__price m-t-5">
                         <a href="golden_sella.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -95,6 +99,7 @@
                 <div class="product__img-box  pos-relative">
                     <a href="cream_sella.php" class="product__img--link">
                         <img class="product__img img-fluid" src="../assets/img/product/basmati/cream.jpg" alt="">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -103,7 +108,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="cream_sella.php" class="product__link">Basmati Cream Sella Rice  </a>
+                    <a href="cream_sella.php" class="product__link">BASMATI CREAM SELLA RICE</a>
                     <div class="product__price m-t-5">
                         <a href="cream_sella.php"><span class="product__price">Enquiry </span></a>
                     </div>

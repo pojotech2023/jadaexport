@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="../assets/css/vendor/fontawesome.css">
     <link rel="stylesheet" href="../assets/css/vendor/plaza-icon.css">
     <link rel="stylesheet" href="../assets/css/vendor/bootstrap.min.css">
-    
+
     <!-- Plugin CSS Files -->
     <link rel="stylesheet" href="../assets/css/plugin/slick.css">
     <link rel="stylesheet" href="../assets/css/plugin/material-scrolltop.css">
@@ -33,6 +33,7 @@
 
     <!-- Main Style CSS File -->
     <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/custom.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -50,10 +51,10 @@
                                 </div>
                                 <ul class="header__top-content--right user-set-role d-flex">
                                     <li class="user-info pos-relative">
-                                        <a class="user-set-role__button" href="mailto://info@jadaexports.com" >Mail: info@jadaexports.com</a>
+                                        <a class="user-set-role__button" href="mailto://info@jadaexports.com">Mail: info@jadaexports.com</a>
                                     </li>
                                     <li class="user-info pos-relative">
-                                        <a class="user-set-role__button" href="cellNo:+91 9944900621" >Cell No:+91 9944900621</a>
+                                        <a class="user-set-role__button" href="cellNo:+91 9944900621">Cell No:+91 9944900621</a>
                                     </li>
                                 </ul>
                             </div>
@@ -77,20 +78,20 @@
                                     <ul class="header__nav">
                                         <li class="header__nav-item pos-relative">
                                             <a href="../index.php" class="header__nav-link">Home</a>
-                                        </li> 
+                                        </li>
                                         <li class="header__nav-item pos-relative">
                                             <a href="#" class="header__nav-link">Abouts Us<i class="fal fa-chevron-down"></i></a>
                                             <ul class="dropdown__menu pos-absolute">
                                                 <!-- <li class="dropdown__list"><a href="#" class="mega-menu__link">Company director</a></li>  -->
-                                                <li class="dropdown__list"><a href="../rc.php" class="mega-menu__link">certificate</a></li>    
-                                                <li class="dropdown__list"><a href="../vision.php" class="mega-menu__link">vision</a></li> 
-                                                <li class="dropdown__list"><a href="../mission.php" class="mega-menu__link">mission</a></li>  
+                                                <li class="dropdown__list"><a href="../rc.php" class="mega-menu__link">certificate</a></li>
+                                                <li class="dropdown__list"><a href="../vision.php" class="mega-menu__link">vision</a></li>
+                                                <li class="dropdown__list"><a href="../mission.php" class="mega-menu__link">mission</a></li>
                                             </ul>
                                         </li>
                                         <li class="header__nav-item pos-relative">
                                             <a href="../product.php" class="header__nav-link">Products</a>
                                         </li>
-                                        
+
                                         <!-- <li class="header__nav-item pos-relative">
                                             <a href="#" class="header__nav-link">Protfolio</a>
                                         </li> -->
@@ -120,8 +121,8 @@
                                 </div>
                             </li>
                         </ul>
-    
-                        <ul class="header__mobile--rightside header__user-action-icon  d-flex align-items-center justify-content-end"> 
+
+                        <ul class="header__mobile--rightside header__user-action-icon  d-flex align-items-center justify-content-end">
                             <li><a href="#offcanvas-mobile-menu" class="offcanvas-toggle"><i class="far fa-bars"></i></a></li>
                         </ul>
                     </div>
@@ -135,7 +136,7 @@
                 <span class="offcanvas__top-text"></span>
                 <button class="offcanvas-close"><i class="fal fa-times"></i></button>
             </div>
-            
+
             <div class="offcanvas-inner">
                 <div class="offcanvas-menu">
                     <ul>
@@ -155,6 +156,6 @@
                     </ul>
                 </div>
             </div>
-        </div> <!--  End Mobile-offcanvas Menu Section   -->    
+        </div> <!--  End Mobile-offcanvas Menu Section   -->
         <div class="offcanvas-overlay"></div>
-    </header>  <!-- :::::: End Header Section ::::::  -->  
+    </header> <!-- :::::: End Header Section ::::::  -->

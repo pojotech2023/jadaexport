@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="onion.php" class="product__link">Fresh onions</a>
+                    <a href="onion.php" class="product__link">FRESH ONION</a>
                     <div class="product__price m-t-5">
                         <a href="onion.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="garlic.php" class="product__link"> Fresh garlic</a>
+                    <a href="garlic.php" class="product__link">FRESH GARLIC</a>
                     <div class="product__price m-t-5">
                         <a href="garlic.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="ginger.php" class="product__link">Fresh ginger</a>
+                    <a href="ginger.php" class="product__link">FRESH GINGER</a>
                     <div class="product__price m-t-5">
                         <a href="ginger.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -76,7 +76,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="greenbanana.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="../assets/img/product/fresh/greenbanana.jpg" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/fresh/greenbanana.jpg" alt="" style="height:380px">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -85,7 +86,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="greenbanana.php" class="product__link">G9 Green Banana</a>
+                    <a href="greenbanana.php" class="product__link">G9 GREEN BANANA</a>
                     <div class="product__price m-t-5">
                         <a href="greenbanana.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -103,7 +104,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="drumstick.php" class="product__link">Fresh drum sticks</a>
+                    <a href="drumstick.php" class="product__link">FRESH DRUMSTICKS</a>
                     <div class="product__price m-t-5">
                         <a href="drumstick.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -121,7 +122,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="lemon.php" class="product__link"> Fresh lemon</a>
+                    <a href="lemon.php" class="product__link">FRESH LEMON</a>
                     <div class="product__price m-t-5">
                         <a href="lemon.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -139,7 +140,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="yamsuran.php" class="product__link">Yam (or) Suran</a>
+                    <a href="yamsuran.php" class="product__link">YAM (or) SURAN</a>
                     <div class="product__price m-t-5">
                         <a href="yamsuran.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -157,7 +158,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="greenchilli.php" class="product__link">Fresh green chilli  </a>
+                    <a href="greenchilli.php" class="product__link">FRESH GREEN CHILLI</a>
                     <div class="product__price m-t-5">
                         <a href="greenchilli.php"><span class="product__price">Enquiry </span></a>
                     </div>

@@ -26,15 +26,14 @@
                 <div class="col-md-5">
                     <div class="product-gallery-box m-b-0">
                         <div class="product-image--gallery overflow-hidden">
-                            <h4 class="font--regular m-b-20">Basmati Cream Sella Rice
+                            <h4 class="font--regular m-b-20">BASMATI CREAM SELLA RICE
                             </h4>
                             <div class="float-left float-grid-1 m-t-0">
-                                <div class="img-responsive border-around">
-                                    <img src="../assets/img/product/basmati/cream.jpg" alt="">
+                                <div class="img-wrapper">
+                                    <img src="../assets/img/product/basmati/cream.jpg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>

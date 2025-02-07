@@ -26,18 +26,17 @@
                 <div class="col-md-5">
                     <div class="product-gallery-box m-b-0">
                         <div class="product-image--gallery overflow-hidden">
-                            <h4 class="font--regular m-b-20">BPT Rice
-                            </h4>
+                            <h4 class="font--regular m-b-20">BPT RICE</h4>
                             <div class="float-left float-grid-1 m-t-0">
-                                <div class="img-responsive border-around">
-                                    <img src="../assets/img/product/rice/bpt.jpeg" alt="">
+                                <div class="img-wrapper">
+                                    <img src="../assets/img/product/rice/bpt.jpeg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-7 m-b-0">
                     <div class="product-details-box m-b-0">
 

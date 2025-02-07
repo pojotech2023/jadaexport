@@ -1,0 +1,38 @@
+
+.product__img {
+    width: 100%;
+    transition: transform 0.3s ease-in-out;
+}
+/* 
+.product__img-box {
+    position: relative;
+    display: inline-block;
+} */
+
+.product__logo {
+    background: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 150px;
+    opacity: 0.8;
+}
+.img-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.prd-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.logo-overlay {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    opacity: 0.8; /* Adjust transparency if needed */
+}

@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include '../header.php'; ?>
 
 <!-- ::::::  Start  Breadcrumb Section  ::::::  -->
 <div class="page-breadcrumb">
@@ -6,8 +6,8 @@
         <div class="row">
             <div class="col-12">
                 <ul class="page-breadcrumb__menu">
-                    <li class="page-breadcrumb__nav"><a href="index.php">Home</a></li>
-                    <li class="page-breadcrumb__nav active"><a href="product.php">Products</a></li>
+                    <li class="page-breadcrumb__nav"><a href="../index.php">Home</a></li>
+                    <li class="page-breadcrumb__nav active"><a href="../product.php">Products</a></li>
                     <li class="page-breadcrumb__nav active"><a href="millets.php">Millets</a></li>
                 </ul>
                 <h2 class="mt-2"> PRODUCTS </>
@@ -26,15 +26,14 @@
                 <div class="col-md-5">
                     <div class="product-gallery-box m-b-0">
                         <div class="product-image--gallery overflow-hidden">
-                            <h4 class="font--regular m-b-20">White Millet
+                            <h4 class="font--regular m-b-20">WHITE MILLET
                             </h4>
                             <div class="float-left float-grid-1 m-t-0">
-                                <div class="img-responsive border-around">
-                                    <img src="assets/img/product/millats/whith.jpg" alt="">
+                            <div class="img-wrapper">
+                                    <img src="../assets/img/product/millats/whith.jpg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>
@@ -79,7 +78,7 @@
 
                         <div class="product-var__item m-t-30">
 
-                            <?php include 'product-quote.php'; ?>
+                            <?php include '../product-quote.php'; ?>
 
                         </div>
                     </div> <!-- ::::::  End  Product Style - Default Section  ::::::  -->
@@ -87,4 +86,4 @@
 
 </main> <!-- :::::: End MainContainer Wrapper :::::: -->
 
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>

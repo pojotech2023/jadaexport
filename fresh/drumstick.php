@@ -8,7 +8,7 @@
                 <ul class="page-breadcrumb__menu">
                 <li class="page-breadcrumb__nav"><a href="../index.php">Home</a></li>
                     <li class="page-breadcrumb__nav active"><a href="../product.php">Products</a></li>
-                    <li class="page-breadcrumb__nav active"><a href="fresh.php">Fresh</a></li>
+                    <li class="page-breadcrumb__nav active"><a href="fresh.php">Fresh Vegetables & Fruits</a></li>
                 </ul>
                 <h2 class="mt-2"> PRODUCTS </>
             </div>
@@ -26,7 +26,7 @@
                    <div class="col-md-5">
                         <div class="product-gallery-box m-b-0">
                             <div class="product-image--gallery overflow-hidden">
-                                <h4 class="font--regular m-b-20">DRUMSTICKS
+                                <h4 class="font--regular m-b-20">FRESH DRUMSTICKS
 </h4>
                                 <div class="float-left float-grid-1 m-t-0">
                                     <div class="img-responsive border-around">

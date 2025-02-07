@@ -26,7 +26,7 @@
                    <div class="col-md-5">
                         <div class="product-gallery-box m-b-0">
                             <div class="product-image--gallery overflow-hidden">
-                                <h4 class="font--regular m-b-20">FRESH GARLIC
+                                <h4 class="font--regular m-b-20">BLACK GARLIC POWDER
 </h4>
                                 <div class="float-left float-grid-1 m-t-0">
                                     <div class="img-responsive border-around">
@@ -50,7 +50,7 @@
 				
 				<tr>
 				    <td class="p7px alpha75 w33">Product Name:</td>
-			         <td class="p7px">Fresh Garlic</td>
+			         <td class="p7px">Black Garlic Powder</td>
 				</tr>
 				
 				<tr>

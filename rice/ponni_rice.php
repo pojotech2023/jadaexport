@@ -29,9 +29,10 @@
                                 <h4 class="font--regular m-b-20">PONNI RICE
 </h4>
                                 <div class="float-left float-grid-1 m-t-0">
-                                    <div class="img-responsive border-around">
-                                        <img src="../assets/img/product/rice/ponni.jpeg" alt="">                  
-                                    </div>
+                                <div class="img-wrapper">
+                                    <img src="../assets/img/product/rice/ponni.jpeg" alt="Rice Image" class="prd-img">
+                                    <img src="../assets/img/logo/logo-1.jpeg" alt="Company Logo" class="logo-overlay">
+                                </div>
                                 </div>
                                 
                                 

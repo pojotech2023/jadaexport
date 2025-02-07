@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="toordhall.php" class="product__link">Toor dal</a>
+                    <a href="toordhall.php" class="product__link">TOOR DHALL</a>
                     <div class="product__price m-t-5">
                         <a href="toordhall.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="uraddhall.php" class="product__link">Urad dal</a>
+                    <a href="uraddhall.php" class="product__link">URAD DHALL</a>
                     <div class="product__price m-t-5">
                         <a href="uraddhall.php"><span class="product__price">Enquiry </span></a>
                     </div>
@@ -58,7 +58,8 @@
             <div class="product__box product__default--single text-center col-md-4">
                 <div class="product__img-box  pos-relative">
                     <a href="green_moong.php" class="product__img--link">
-                        <img class="product__img img-fluid" src="../assets/img/product/dhall/Moong-Dal.webp" alt="">
+                        <img class="product__img img-fluid" src="../assets/img/product/dhall/Moong-Dal.webp" alt="" style="height: 390px;">
+                        <img class="product__logo" src="../assets/img/logo/logo-1.jpeg" alt="Company Logo">
                     </a>
 
                     <ul class="product__action--link pos-absolute">
@@ -67,7 +68,7 @@
                 </div>
 
                 <div class="product__content m-t-20">
-                    <a href="green_moong.php" class="product__link">Green moong dal  </a>
+                    <a href="green_moong.php" class="product__link">GREEN MOONG DHALL</a>
                     <div class="product__price m-t-5">
                         <a href="green_moong.php"><span class="product__price">Enquiry </span></a>
                     </div>
